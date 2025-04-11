@@ -1,0 +1,7 @@
+D:\HocTap\Lap-trinh-ung-dung-mang\share\tempApp\tempApp\bin\Debug\tempApp.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\share\tempApp\tempApp\bin\Debug\tempApp.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\tempApp\tempApp\bin\Debug\tempApp.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\tempApp\tempApp\obj\Debug\tempApp.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\tempApp\tempApp\obj\Debug\tempApp.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\tempApp\tempApp\obj\Debug\tempApp.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\tempApp\tempApp\obj\Debug\tempApp.pdb

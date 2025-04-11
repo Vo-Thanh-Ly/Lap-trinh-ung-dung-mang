@@ -1,0 +1,10 @@
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client2\bin\Debug\client2.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client2\bin\Debug\client2.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client2\bin\Debug\client2.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client2\obj\Debug\client2.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client2\obj\Debug\client2.Properties.Resources.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client2\obj\Debug\client2.csproj.GenerateResource.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client2\obj\Debug\client2.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client2\obj\Debug\client2.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client2\obj\Debug\client2.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client2\obj\Debug\client2.Client2.resources

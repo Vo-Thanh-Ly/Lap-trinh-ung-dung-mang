@@ -1,0 +1,10 @@
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2\bin\Debug\TH2.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2\bin\Debug\TH2.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2\bin\Debug\TH2.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2\obj\Debug\TH2C1.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2\obj\Debug\TH2.Form1.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2\obj\Debug\TH2.Properties.Resources.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2\obj\Debug\TH2C1.csproj.GenerateResource.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2\obj\Debug\TH2C1.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2\obj\Debug\TH2.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2\obj\Debug\TH2.pdb

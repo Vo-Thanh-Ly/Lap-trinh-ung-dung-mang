@@ -1,0 +1,10 @@
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client1b\obj\Debug\client1b.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client1b\obj\Debug\TH4.Client.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client1b\obj\Debug\client1b.Properties.Resources.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client1b\obj\Debug\client1b.csproj.GenerateResource.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client1b\obj\Debug\client1b.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client1b\bin\Debug\client1b.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client1b\bin\Debug\client1b.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client1b\bin\Debug\client1b.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client1b\obj\Debug\client1b.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client1b\obj\Debug\client1b.pdb

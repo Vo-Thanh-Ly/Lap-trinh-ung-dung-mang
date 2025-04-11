@@ -1,0 +1,10 @@
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTcpClient\bin\Debug\chatTcpClient.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTcpClient\bin\Debug\chatTcpClient.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTcpClient\bin\Debug\chatTcpClient.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTcpClient\obj\Debug\chatTcpClient.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTcpClient\obj\Debug\chatTcpClient.ClientForm.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTcpClient\obj\Debug\chatTcpClient.Properties.Resources.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTcpClient\obj\Debug\chatTcpClient.csproj.GenerateResource.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTcpClient\obj\Debug\chatTcpClient.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTcpClient\obj\Debug\chatTcpClient.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTcpClient\obj\Debug\chatTcpClient.pdb

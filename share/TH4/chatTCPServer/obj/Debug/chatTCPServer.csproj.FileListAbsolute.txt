@@ -1,0 +1,10 @@
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTCPServer\bin\Debug\chatTCPServer.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTCPServer\bin\Debug\chatTCPServer.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTCPServer\bin\Debug\chatTCPServer.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTCPServer\obj\Debug\chatTCPServer.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTCPServer\obj\Debug\chatTCPServer.Properties.Resources.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTCPServer\obj\Debug\chatTCPServer.ServerForm.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTCPServer\obj\Debug\chatTCPServer.csproj.GenerateResource.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTCPServer\obj\Debug\chatTCPServer.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTCPServer\obj\Debug\chatTCPServer.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\chatTCPServer\obj\Debug\chatTCPServer.pdb

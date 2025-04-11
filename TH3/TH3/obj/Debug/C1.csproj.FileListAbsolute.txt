@@ -1,0 +1,11 @@
+D:\TH3\TH3\bin\Debug\TH3.exe.config
+D:\TH3\TH3\bin\Debug\TH3.exe
+D:\TH3\TH3\bin\Debug\TH3.pdb
+D:\TH3\TH3\obj\Debug\C1.csproj.AssemblyReference.cache
+D:\TH3\TH3\obj\Debug\TH3.Client.resources
+D:\TH3\TH3\obj\Debug\TH3.Properties.Resources.resources
+D:\TH3\TH3\obj\Debug\TH3.Server.resources
+D:\TH3\TH3\obj\Debug\C1.csproj.GenerateResource.cache
+D:\TH3\TH3\obj\Debug\C1.csproj.CoreCompileInputs.cache
+D:\TH3\TH3\obj\Debug\TH3.exe
+D:\TH3\TH3\obj\Debug\TH3.pdb

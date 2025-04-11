@@ -1,25 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\",
+  "WorkspaceRootPath": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|f:\\baithi\\tn414\\2_2023_2024\\bai_giai\\cau2\\chatapp\\chatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|solutionrelative:chatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\chatapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|solutionrelative:chatapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\chatapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\chatapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|solutionrelative:chatapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\chatapp\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\chatapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|solutionrelative:chatapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4C44B7-61BF-4FF2-AF15-399F9C424F39}|chatapp02\\chatapp02.csproj|d:\\hoctap\\lap-trinh-ung-dung-mang\\tailieu\\tn414-20250108t023447z-001\\tn414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\chatapp\\chatapp02\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4C44B7-61BF-4FF2-AF15-399F9C424F39}|chatapp02\\chatapp02.csproj|solutionrelative:chatapp02\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4C44B7-61BF-4FF2-AF15-399F9C424F39}|chatapp02\\chatapp02.csproj|d:\\hoctap\\lap-trinh-ung-dung-mang\\tailieu\\tn414-20250108t023447z-001\\tn414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\chatapp\\chatapp02\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B4C44B7-61BF-4FF2-AF15-399F9C424F39}|chatapp02\\chatapp02.csproj|solutionrelative:chatapp02\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|d:\\hoctap\\lap-trinh-ung-dung-mang\\tailieu\\tn414-20250108t023447z-001\\tn414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\chatapp\\chatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|solutionrelative:chatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4C44B7-61BF-4FF2-AF15-399F9C424F39}|chatapp02\\chatapp02.csproj|D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\chatapp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4C44B7-61BF-4FF2-AF15-399F9C424F39}|chatapp02\\chatapp02.csproj|solutionrelative:chatapp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\chatapp\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|solutionrelative:chatapp\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\chatapp\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\chatapp\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{908CAA22-7A49-4DC3-B786-E1B2FD609E72}|ChatApp\\MyChat.csproj|solutionrelative:chatapp\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,80 +42,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\ChatApp\\Program.cs",
-              "RelativeDocumentMoniker": "ChatApp\\Program.cs",
-              "ToolTip": "F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\ChatApp\\Program.cs",
-              "RelativeToolTip": "ChatApp\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBMAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:54:10.833Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Client.cs",
-              "DocumentMoniker": "F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\ChatApp\\Client.cs",
-              "RelativeDocumentMoniker": "ChatApp\\Client.cs",
-              "ToolTip": "F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\ChatApp\\Client.cs",
-              "RelativeToolTip": "ChatApp\\Client.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAxwDMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:49:32.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Server.cs",
-              "DocumentMoniker": "F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\ChatApp\\Server.cs",
-              "RelativeDocumentMoniker": "ChatApp\\Server.cs",
-              "ToolTip": "F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\ChatApp\\Server.cs",
-              "RelativeToolTip": "ChatApp\\Server.cs",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAxwJUAAAAqAAAA",
+              "DocumentMoniker": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\chatapp02\\Server.cs",
+              "RelativeDocumentMoniker": "chatapp02\\Server.cs",
+              "ToolTip": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\chatapp02\\Server.cs",
+              "RelativeToolTip": "chatapp02\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:49:32.929Z",
+              "WhenOpened": "2025-04-10T23:25:19.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Server.cs [Design]",
-              "DocumentMoniker": "F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\ChatApp\\Server.cs",
+              "DocumentMoniker": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\chatapp02\\Server.cs",
+              "RelativeDocumentMoniker": "chatapp02\\Server.cs",
+              "ToolTip": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\chatapp02\\Server.cs [Design]",
+              "RelativeToolTip": "chatapp02\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:24:57.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\chatapp02\\Program.cs",
+              "RelativeDocumentMoniker": "chatapp02\\Program.cs",
+              "ToolTip": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\chatapp02\\Program.cs",
+              "RelativeToolTip": "chatapp02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:41:34.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\ChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Program.cs",
+              "ToolTip": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\ChatApp\\Program.cs",
+              "RelativeToolTip": "ChatApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:54:10.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\ChatApp\\Client.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Client.cs",
+              "ToolTip": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\ChatApp\\Client.cs",
+              "RelativeToolTip": "ChatApp\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:49:32.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\ChatApp\\Server.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Server.cs",
+              "ToolTip": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\ChatApp\\Server.cs",
+              "RelativeToolTip": "ChatApp\\Server.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAxwJUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:49:32.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\ChatApp\\Server.cs",
               "RelativeDocumentMoniker": "ChatApp\\Server.cs",
               "ToolTip": "F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\ChatApp\\Server.cs [Design]",
-              "RelativeToolTip": "ChatApp\\Server.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:49:32.931Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-22T15:49:32.931Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Client.cs [Design]",
-              "DocumentMoniker": "F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\ChatApp\\Client.cs",
+              "DocumentMoniker": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\ChatApp\\Client.cs",
               "RelativeDocumentMoniker": "ChatApp\\Client.cs",
-              "ToolTip": "F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau2\\ChatApp\\ChatApp\\Client.cs [Design]",
+              "ToolTip": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau2\\ChatApp\\ChatApp\\Client.cs [Design]",
               "RelativeToolTip": "ChatApp\\Client.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T15:49:32.934Z",
               "EditorCaption": " [Design]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1155,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

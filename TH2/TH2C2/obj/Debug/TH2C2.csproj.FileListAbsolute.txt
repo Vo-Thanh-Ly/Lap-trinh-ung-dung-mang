@@ -1,0 +1,16 @@
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\bin\Debug\TH2C2.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\bin\Debug\TH2C2.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\bin\Debug\TH2C2.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.Form1.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.KiemTraIPv4_Ipv6.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.Properties.Resources.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.TimIPTuTenMien.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.csproj.GenerateResource.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.TimTenMienTuIP.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.IPMayCucBo.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.KiemTraDacDiemIP.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH2\TH2C2\obj\Debug\TH2C2.KiemTraHaiTenMien.resources

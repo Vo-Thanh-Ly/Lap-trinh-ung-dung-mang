@@ -1,0 +1,10 @@
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\tcp_server_form\bin\Debug\tcp_server_form.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\tcp_server_form\bin\Debug\tcp_server_form.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\tcp_server_form\bin\Debug\tcp_server_form.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\tcp_server_form\obj\Debug\tcp_server_form.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\tcp_server_form\obj\Debug\tcp_server_form.Form1.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\tcp_server_form\obj\Debug\tcp_server_form.Properties.Resources.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\tcp_server_form\obj\Debug\tcp_server_form.csproj.GenerateResource.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\tcp_server_form\obj\Debug\tcp_server_form.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\tcp_server_form\obj\Debug\tcp_server_form.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\tcp_server_form\obj\Debug\tcp_server_form.pdb

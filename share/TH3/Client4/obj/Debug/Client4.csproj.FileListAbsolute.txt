@@ -1,0 +1,10 @@
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\Client4\bin\Debug\Client4.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\Client4\bin\Debug\Client4.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\Client4\bin\Debug\Client4.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\Client4\obj\Debug\Client4.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\Client4\obj\Debug\Client4.Client4.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\Client4\obj\Debug\Client4.Properties.Resources.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\Client4\obj\Debug\Client4.csproj.GenerateResource.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\Client4\obj\Debug\Client4.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\Client4\obj\Debug\Client4.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\Client4\obj\Debug\Client4.pdb

@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UDPChatSimple||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{C18EFF54-4482-44FE-9F3C-527F485AF97B}|UDPChatSimple.csproj|D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18EFF54-4482-44FE-9F3C-527F485AF97B}|UDPChatSimple.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C18EFF54-4482-44FE-9F3C-527F485AF97B}|UDPChatSimple.csproj|D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -12,13 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C18EFF54-4482-44FE-9F3C-527F485AF97B}|UDPChatSimple.csproj|D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C18EFF54-4482-44FE-9F3C-527F485AF97B}|UDPChatSimple.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18EFF54-4482-44FE-9F3C-527F485AF97B}|UDPChatSimple.csproj|D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C18EFF54-4482-44FE-9F3C-527F485AF97B}|UDPChatSimple.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18EFF54-4482-44FE-9F3C-527F485AF97B}|UDPChatSimple.csproj|d:\\hoctap\\lap-trinh-ung-dung-mang\\tailieu\\tn414-20250108t023447z-001\\tn414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,10 +24,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -55,28 +45,21 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UDPChatSimple",
-              "DocumentMoniker": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\UDPChatSimple.csproj",
-              "RelativeDocumentMoniker": "UDPChatSimple.csproj",
-              "ToolTip": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\UDPChatSimple.csproj",
-              "RelativeToolTip": "UDPChatSimple.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-22T16:31:31.144Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAAwD0AAAAxAAAA",
+              "ToolTip": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:24:20.02Z"
+              "WhenOpened": "2024-04-22T15:24:20.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,9 +69,10 @@
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBYAAAAIAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:24:20.388Z"
+              "WhenOpened": "2024-04-22T15:24:20.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -96,9 +80,11 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "F:\\BAITHI\\TN414\\2_2023_2024\\bai_giai\\cau1\\Form1.cs [Design]",
+              "ToolTip": "D:\\HocTap\\Lap-trinh-ung-dung-mang\\TaiLieu\\TN414-20250108T023447Z-001\\TN414\\dethi\\2-23-24\\bai_giai\\bai_giai\\cau1\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:24:20.391Z"
+              "WhenOpened": "2024-04-22T15:24:20.391Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

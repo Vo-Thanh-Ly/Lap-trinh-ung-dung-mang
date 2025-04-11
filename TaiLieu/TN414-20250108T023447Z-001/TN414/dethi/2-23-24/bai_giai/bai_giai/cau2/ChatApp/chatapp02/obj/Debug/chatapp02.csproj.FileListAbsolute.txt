@@ -1,0 +1,10 @@
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\chatapp02\bin\Debug\chatapp02.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\chatapp02\bin\Debug\chatapp02.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\chatapp02\bin\Debug\chatapp02.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\chatapp02\obj\Debug\chatapp02.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\chatapp02\obj\Debug\chatapp02.Properties.Resources.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\chatapp02\obj\Debug\ChatApp.Server.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\chatapp02\obj\Debug\chatapp02.csproj.GenerateResource.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\chatapp02\obj\Debug\chatapp02.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\chatapp02\obj\Debug\chatapp02.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\chatapp02\obj\Debug\chatapp02.pdb

@@ -1,0 +1,10 @@
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client_server4_tcp\bin\Debug\client_server4_tcp.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client_server4_tcp\bin\Debug\client_server4_tcp.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client_server4_tcp\bin\Debug\client_server4_tcp.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client_server4_tcp\obj\Debug\client_server4_tcp.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client_server4_tcp\obj\Debug\client_server4_tcp.Form1.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client_server4_tcp\obj\Debug\client_server4_tcp.Properties.Resources.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client_server4_tcp\obj\Debug\client_server4_tcp.csproj.GenerateResource.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client_server4_tcp\obj\Debug\client_server4_tcp.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client_server4_tcp\obj\Debug\client_server4_tcp.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH4\client_server4_tcp\obj\Debug\client_server4_tcp.pdb

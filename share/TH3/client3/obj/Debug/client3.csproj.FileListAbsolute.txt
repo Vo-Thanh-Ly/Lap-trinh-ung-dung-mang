@@ -1,0 +1,10 @@
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\client3\bin\Debug\client3.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\client3\bin\Debug\client3.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\client3\bin\Debug\client3.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\client3\obj\Debug\client3.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\client3\obj\Debug\client3.Client3.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\client3\obj\Debug\client3.Properties.Resources.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\client3\obj\Debug\client3.csproj.GenerateResource.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\client3\obj\Debug\client3.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\client3\obj\Debug\client3.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\share\TH3\client3\obj\Debug\client3.pdb

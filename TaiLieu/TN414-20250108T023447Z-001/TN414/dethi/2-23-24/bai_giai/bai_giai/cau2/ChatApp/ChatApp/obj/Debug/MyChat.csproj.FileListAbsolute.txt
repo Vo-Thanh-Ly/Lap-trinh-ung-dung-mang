@@ -31,3 +31,14 @@ F:\BAITHI\TN414\2_2023_2024\bai_giai\cau2\ChatApp\ChatApp\obj\Debug\MyChat.cspro
 F:\BAITHI\TN414\2_2023_2024\bai_giai\cau2\ChatApp\ChatApp\obj\Debug\MyChat.csproj.CoreCompileInputs.cache
 F:\BAITHI\TN414\2_2023_2024\bai_giai\cau2\ChatApp\ChatApp\obj\Debug\ChatApp.exe
 F:\BAITHI\TN414\2_2023_2024\bai_giai\cau2\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\ChatApp\obj\Debug\MyChat.csproj.AssemblyReference.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\ChatApp\obj\Debug\ChatApp.Client.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\ChatApp\obj\Debug\ChatApp.Server.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\ChatApp\obj\Debug\MyChat.csproj.GenerateResource.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\ChatApp\obj\Debug\MyChat.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+D:\HocTap\Lap-trinh-ung-dung-mang\TaiLieu\TN414-20250108T023447Z-001\TN414\dethi\2-23-24\bai_giai\bai_giai\cau2\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
